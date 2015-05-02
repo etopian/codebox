@@ -8,7 +8,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CodeboxIDE/codebox.git"
+        "url": "https://github.com/etopian/codebox-codebox.git"
     },
     "keywords": [
         "cli", "ide", "server", "desktop", "development", "code", "editor"
@@ -84,23 +84,23 @@
         "merge-stream": "0.1.7"
     },
     "packageDependencies": {
-        "about": "CodeboxIDE/package-about",
-        "command-palette": "CodeboxIDE/package-command-palette",
-        "files-tree": "CodeboxIDE/package-files-tree",
-        "tabs": "CodeboxIDE/package-tabs",
-        "editor": "CodeboxIDE/package-editor",
-        "editorsync": "CodeboxIDE/package-editorsync",
-        "terminal": "CodeboxIDE/package-terminal",
-        "pkgcontrol": "CodeboxIDE/package-pkgcontrol",
-        "statusbar": "CodeboxIDE/package-statusbar",
-        "watcher": "CodeboxIDE/package-watcher",
-        "panels": "CodeboxIDE/package-panels",
-        "find": "CodeboxIDE/package-find",
-        "git": "CodeboxIDE/package-git",
-        "settings": "CodeboxIDE/package-settings",
-        "menubar": "CodeboxIDE/package-menubar",
-        "image": "CodeboxIDE/package-image",
-        "ctags": "CodeboxIDE/package-ctags"
+        "about": "etopian/codebox-package-about",
+        "command-palette": "etopian/codebox-package-command-palette",
+        "files-tree": "etopian/codebox-package-files-tree",
+        "tabs": "etopian/codebox-package-tabs",
+        "editor": "etopian/codebox-package-editor",
+        "editorsync": "etopian/codebox-package-editorsync",
+        "terminal": "etopian/codebox-package-terminal",
+        "pkgcontrol": "etopian/codebox-package-pkgcontrol",
+        "statusbar": "etopian/codebox-package-statusbar",
+        "watcher": "etopian/codebox-package-watcher",
+        "panels": "etopian/codebox-package-panels",
+        "find": "etopian/codebox-package-find",
+        "git": "etopian/codebox-package-git",
+        "settings": "etopian/codebox-package-settings",
+        "menubar": "etopian/codebox-package-menubar",
+        "image": "etopian/codebox-package-image",
+        "ctags": "etopian/codebox-package-ctags"
     },
     "scripts": {
         "test": "export TESTING=true; mocha --reporter list"
