@@ -6,7 +6,7 @@
 
 ---------
 
-This is a copy of https://github.com/CodeboxIDE/codebox saved in case the project at some point becomes non-avialble. This will be maintained as long as CodeboxIDE is still licensed under Apache 2 License, and perhaps when that is no longer the case it will be forked and maintained indepdently.
+This is a copy of https://github.com/CodeboxIDE/codebox saved in case the project at some point becomes unavailable. This will be maintained as long as CodeboxIDE is still licensed under Apache 2 License, and perhaps when that is no longer the case, it will be forked and maintained indepdently.
 
 ----------
 
