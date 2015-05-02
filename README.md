@@ -1,10 +1,13 @@
-This is a copy of https://github.com/CodeboxIDE/codebox saved in case the project at some point becomes non-avialble. This will be maintained as long as CodeboxIDE is still licensed under Apache 2 License, and perhaps when that is no longer the case
-===========
 # Codebox
 > "Open source cloud & desktop IDE."
 
 [![Build Status](https://travis-ci.org/CodeboxIDE/codebox.png?branch=master)](https://travis-ci.org/CodeboxIDE/codebox)
 [![NPM version](https://badge.fury.io/js/codebox.svg)](http://badge.fury.io/js/codebox)
+
+This is a copy of https://github.com/CodeboxIDE/codebox saved in case the project at some point becomes non-avialble. This will be maintained as long as CodeboxIDE is still licensed under Apache 2 License, and perhaps when that is no longer the case
+
+----------
+
 
 Codebox is a complete and modular Cloud IDE. It can run on any unix-like machine (Linux, Mac OS X). It is an open source component of [codebox.io](https://www.codebox.io) (Cloud IDE as a Service).
 
